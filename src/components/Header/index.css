@@ -1,0 +1,21 @@
+.bg-container {
+  display:flex;
+  justify-content: space-between;
+}
+.image-container {
+  display: flex;
+}
+.nav-menu {
+  display: flex;
+  justify-content: space-around;
+}
+.nav-item {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+.heading {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
